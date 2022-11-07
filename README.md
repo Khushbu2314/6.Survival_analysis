@@ -1,1 +1,1 @@
-# 6.Survival_analysis
+# Survival_analysis

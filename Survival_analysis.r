@@ -1,9 +1,4 @@
-#input1-log2cpm ....take subset of genes 
-#input2-,vector or array of genes 
-#take the z_scores
-#function format
-#plot heat map
-#cgga 
+#cgga data
 library(survival)
 library(survminer)
 setwd("C:\\Users\\sai\\Documents\\R")
